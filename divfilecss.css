@@ -1,0 +1,30 @@
+.header{
+background-color: gray;
+border-radius: 8px;
+}
+.header li{
+  list-style: none;
+}
+.header li a{
+  text-decoration: none;
+  float: left;
+  padding: 5px;
+}
+.header .search input{
+  background-color: red;
+}
+#x{
+  border: 3px solid black;
+  width: 45%; height: 300px; margin: 4px;
+  float: left;
+}
+#x1{
+border: 3px solid black;
+  width: 45%; height: 300px; margin: 4px;
+  float: left;
+}
+.hello{
+  background-color: red;
+  border-radius: 5px;
+  text-align: center;
+}
